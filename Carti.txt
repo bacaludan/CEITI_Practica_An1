@@ -1,0 +1,12 @@
+10
+
+1 Ernesto Sabato Abaddon 1974 150
+2 Abatia Dan Dobos 2005 100
+3 Adam_si_Eva Liviu Rebreanu 1925 250
+4 Adolescenta Lev Tolstoi 1854 110
+5 Amandoi Liviu Rebreanu 1940 130
+6 Amintiri_din_copilarie Ion Creanga 1892 150
+7 Avatarul Poul Anderson 1978 300
+8 Axa Robert Charles 2007 140
+9 Arena_sumbra Mario Puzo 1955 147
+10 Adolescentul Feodor Dostoievski 1875 200
